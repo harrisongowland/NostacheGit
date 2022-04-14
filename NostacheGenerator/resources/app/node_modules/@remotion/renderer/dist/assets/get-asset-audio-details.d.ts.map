@@ -1,0 +1,1 @@
+{"version":3,"file":"get-asset-audio-details.d.ts","sourceRoot":"","sources":["../../src/assets/get-asset-audio-details.ts"],"names":[],"mappings":"AAGA,OAAO,EAAC,iBAAiB,EAAC,MAAM,SAAS,CAAC;AAE1C,wBAAsB,oBAAoB,CAAC,OAAO,EAAE;IACnD,UAAU,EAAE,MAAM,EAAE,CAAC;IACrB,WAAW,CAAC,EAAE,MAAM,GAAG,IAAI,CAAC;CAC5B,GAAG,OAAO,CAAC,GAAG,CAAC,MAAM,EAAE,iBAAiB,CAAC,CAAC,CAgB1C"}

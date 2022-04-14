@@ -1,0 +1,1 @@
+{"version":3,"file":"wrap-remotion-context.d.ts","sourceRoot":"","sources":["../src/wrap-remotion-context.tsx"],"names":[],"mappings":"AAIA,OAAO,KAAgB,MAAM,OAAO,CAAC;AAMrC,wBAAgB,mBAAmB;;;;;;EAsBlC;AAED,MAAM,WAAW,4BAA4B;IAC5C,QAAQ,EAAE,UAAU,CAAC,OAAO,mBAAmB,CAAC,CAAC;IACjD,QAAQ,EAAE,KAAK,CAAC,SAAS,CAAC;CAC1B;AAED,eAAO,MAAM,uBAAuB,UAC5B,4BAA4B,gBAgBnC,CAAC"}

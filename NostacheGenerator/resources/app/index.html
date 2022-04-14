@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="node_modules\bulma\css\bulma.min.css">
+    <title>Jacksfilms #Nostache Generator</title>
+</head>
+<body>
+    <section class="section is-medium">
+        <h1 class="title">Jacksfilms #Nostache Generator</h1>
+        <h2 class="subtitle">Upload an image to obscure Jacksfilms' moustaches</h2>
+        <div class="file is-flex-direction-column" id="file">
+            <input class="input" type="text" id="fileName" placeholder="Resulting video file name">
+            <button class="button" id="directorySelect">Choose a folder to save your video</button>
+            <label class="file-label">
+                <input class="file-input" id="fileUpload" type="file" accept="image/png, image/jpeg" name="resume">
+                <span class="file-cta">
+                    <span class="file-label">
+                        Choose an image to superimpose
+                    </span>
+                </span>
+            </label>
+            <br />
+            <div class="control">
+                <button class="button is-link" id="process">Process</button>
+            </div>
+        </div>
+        <div id="process-screen">
+            <h2 class="subtitle" id="status">Frames processed: 0/1224</h2>
+            <h2 class="subtitle" id="progress">Rendering video: 0%</h2>
+        </div>
+
+        <h2 class="subtitle" id="saveDirectory">Choose a directory</h2>
+        <img id="output" width="200" />
+    </section>
+    <script src="renderer.js"></script>
+</body>
+</html>

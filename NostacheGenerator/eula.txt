@@ -1,0 +1,37 @@
+This End User License Agreement ("EULA") is between you and Harrison Gowland (hereafter "the
+developer") and governs your use of the developer's application, the Jacksfilms #Nostache
+Generator (hereafter "the software"). By downloading, forking, altering or otherwise 
+exploiting the software, you warrant that you agree to the terms of the EULA or that you 
+are authorised to agree to the terms of the EULA on behalf of whomever you are acting for.
+
+The developer licenses the software "AS IS", and makes no express or implied warranty of any
+kind. The developer specifically disclaims all indirect or implied warranties to the full extent
+allowed by applicable law, including without limitation all implied warranties of non-
+infringement, merchantability, title or fitness for any particular purpose. No oral or written
+information or advice given by the developer, their agents or their employees shall create a
+warranty.
+
+With exceptions being made to accommodate the terms and conditions of this EULA, this software
+is licensed to you under the Creative Commons Attribution 3.0 Unported (CC BY 3.0) license. The
+human readable version of that license is viewable at
+https://creativecommons.org/licenses/by/3.0/. In short, you are free to share, copy and
+redistribute this material in any medium or format, and to adapt, remix, transform and
+build upon the material for any purpose, even commercially, under the following terms:
+
+- You must give appropriate credit, provide a link to the license (see above) and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way that suggests the
+developer endorses you or your use.
+- You may not apply legal terms or technological measures that legally restrict others from
+doing anything the license permits. 
+
+The terms of the license do not apply for elements of the software in the public domain,
+should they exist, or where your use is permitted by an applicable exception or limitation. 
+
+For clarity, the authoritative version of the license governing your usage of the software
+can be viewed here: https://creativecommons.org/licenses/by/3.0/legalcode.
+
+For the purpose of settling disputes which may arise out of or in connection with this agreement,
+you and the developer agree that the courts of England shall have non-exclusive jurisdiction and
+that accordingly any proceedings may be brought in those courts. 
+
+

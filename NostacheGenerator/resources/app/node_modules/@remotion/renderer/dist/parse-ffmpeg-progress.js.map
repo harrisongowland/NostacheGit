@@ -1,0 +1,1 @@
+{"version":3,"file":"parse-ffmpeg-progress.js","sourceRoot":"","sources":["../src/parse-ffmpeg-progress.ts"],"names":[],"mappings":";;;AAAO,MAAM,mBAAmB,GAAG,CAAC,KAAa,EAAsB,EAAE;IACxE,MAAM,KAAK,GAAG,KAAK,CAAC,KAAK,CAAC,wBAAwB,CAAC,CAAC;IACpD,IAAI,CAAC,KAAK,EAAE;QACX,OAAO,SAAS,CAAC;KACjB;IAED,OAAO,MAAM,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,CAAC;AACzB,CAAC,CAAC;AAPW,QAAA,mBAAmB,uBAO9B"}

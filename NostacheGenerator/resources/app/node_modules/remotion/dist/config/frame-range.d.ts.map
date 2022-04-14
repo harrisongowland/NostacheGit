@@ -1,0 +1,1 @@
+{"version":3,"file":"frame-range.d.ts","sourceRoot":"","sources":["../../src/config/frame-range.ts"],"names":[],"mappings":"AAAA,oBAAY,UAAU,GAAG,MAAM,GAAG,CAAC,MAAM,EAAE,MAAM,CAAC,CAAC;AAInD,eAAO,MAAM,kBAAkB,eAAgB,UAAU,GAAG,IAAI,SA4E/D,CAAC;AAEF,eAAO,MAAM,aAAa,kBAAmB,UAAU,GAAG,IAAI,SAG7D,CAAC;AAEF,eAAO,MAAM,oBAAoB,kBAAmB,MAAM,GAAG,MAAM,SA+BlE,CAAC;AAEF,eAAO,MAAM,QAAQ,yBAAc,CAAC"}

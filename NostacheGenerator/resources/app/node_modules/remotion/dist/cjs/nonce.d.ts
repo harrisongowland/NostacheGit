@@ -1,0 +1,8 @@
+/// <reference types="react" />
+export declare type TNonceContext = {
+    getNonce: () => number;
+    fastRefreshes: number;
+};
+export declare const NonceContext: import("react").Context<TNonceContext>;
+export declare const useNonce: () => number;
+//# sourceMappingURL=nonce.d.ts.map

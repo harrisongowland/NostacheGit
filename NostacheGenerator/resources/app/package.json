@@ -1,0 +1,30 @@
+{
+  "name": "nostache-generator",
+  "version": "1.0.0",
+  "description": "Generate a #nostache video for the #nostache thing jack film is doing",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harrison Gowland",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^18.0.3"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@remotion/renderer": "^2.6.14",
+    "bulma": "^0.9.3",
+    "child_process": "^1.0.2",
+    "execa": "^6.1.0",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^10.0.1",
+    "fsp": "^0.1.2",
+    "jimp": "^0.16.1",
+    "remotion": "^2.6.14",
+    "sharp": "^0.30.3",
+    "videoshow": "^0.1.12"
+  }
+}

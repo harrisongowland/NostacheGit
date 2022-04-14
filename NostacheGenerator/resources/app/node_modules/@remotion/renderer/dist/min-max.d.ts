@@ -1,0 +1,3 @@
+export declare const min: (arr: number[]) => number;
+export declare const max: (arr: number[]) => number;
+//# sourceMappingURL=min-max.d.ts.map

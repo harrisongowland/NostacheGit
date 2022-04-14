@@ -1,0 +1,1 @@
+{"version":3,"file":"create-ffmpeg-complex-filter.d.ts","sourceRoot":"","sources":["../src/create-ffmpeg-complex-filter.ts"],"names":[],"mappings":"AAGA,OAAO,EAAC,uBAAuB,EAAC,MAAM,4BAA4B,CAAC;AAmBnE,eAAO,MAAM,yBAAyB,YAC5B,uBAAuB,EAAE,KAChC,QAAQ;IACV,iBAAiB,EAAE,CAAC,MAAM,EAAE,MAAM,CAAC,GAAG,IAAI,CAAC;IAC3C,OAAO,EAAE,MAAM,IAAI,CAAC;CACpB,CA2BA,CAAC"}
